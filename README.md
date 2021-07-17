@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, welcome to my profile :)
 
-<!--
-**heinlin262/heinlin262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical: PowerBI, Tableau, SQL Server Management Studio, Facebook Business Suite, Google Analytics, Adobe Photoshop, Adobe Illustrator, 
+Xamarin, Microsoft Office, Google Cloud, Visual Studio, Trello, Slack
 
-Here are some ideas to get you started:
+Programming: C#, Java, JavaScript, HTML, Jython, SQL, ASP.NET, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Science: Data Analysis, Visualization of Data Insights, Database Management, Data Quality Assessment
+
+Research: Source Checking, Networking, Outreach, Advanced Google Search
+
+Project Management: Task Management, Prioritization, Delegation, Task Separation, Scheduling, Risk 
+management
+
+Language: English, Burmese, Chinese (Basic)
